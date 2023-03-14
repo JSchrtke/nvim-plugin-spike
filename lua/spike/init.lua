@@ -1,5 +1,5 @@
 M = {}
 
-M.hello = require("spike.hello").hello
+require("spike.hello")
 
 return M
